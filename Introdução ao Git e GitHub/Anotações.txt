@@ -1,0 +1,10 @@
+Link para download do Git: https://git-scm.com/downloads
+
+- O Git Bash é um terminal extendido para otimizar o uso do Git.
+- Git init é cria um novo repositório do Git na pasta em questão.
+- O Markdown é uma linguagem de marcação simples. Ela converte seu texto em HTML válido. Markdown é frequentemente usado para formatar arquivos README, para escrever 
+mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples. 
+- Quando você tentar fazer commit com um email e senha diferentes dos utilizados no GitHub, ele vai dar o commit com os usuários que você colocou.
+- Se você tentar dar o push e no repositório já tiver um arquivo mais atualizado do que o que você clonou, o Git vai dar um erro, alegdando que você precisa primeiro
+dar o pull dos arquivos mais atuais, para só aí dar o push.
+- O SHA1 cria uma incriptação de 40 conjuntos de caracteres para o arquivo. 
