@@ -1,0 +1,36 @@
+- Estrutura de Repetição
+"Dentro da lógica de programação, é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um
+contador"
+
+- Linguagem de Programação
+"é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software). Um software pode ser desenvolvido para
+rodar em uma computador, dispositivo móvel ou em qualquer equipamento que permita sua execução"
+
+- Linguagem: Alto Nível x  Baixo Nível
+"Enquanto a primeira é a que mais se aproxima da nossa linguagem, a outra se aproxima mais da linguagem das máquinas"
+
+- Linguagem: Compiladas x Interpretadas
+"Na primeira o código fonte é executado diretamente pelo sistema opereacional ou pelo processador, após ser traduzido por meio de um processo chamado compilação (c#, c++). 
+Na segunda, no entanto, é executado por um programa de computador, chamado interpretar, e em seguida pelo sistema operacional ou processador. Interpretada pelo servidor
+e depois transformada em html (Java, JavaScript, PHP, Python)"
+
+- O que é Portugol?
+"Pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independente da linguagem de programação"
+"Permite o programador a pensar no problema em si e não no equipamento que irá executador o algoritmo"
+
+- Desvio condicional "se"
+"Condição deve ser testada entre parênteses e as instruções devem ser executadas entre chaves caso o desvio seja verdadeiro"
+
+- Desvio condicional "se-não"
+"Quando a condição for falsa, um outro conjunto de comandos deve ser executado"
+
+- Desvio condicional "caso"
+"Similar aos comandos 'se' e 'se-não', reduz a complexidade na escola de diversas opções. Não é possível o uso de operadores lógicos, já que ele apenas trabalha com
+valores definidos"
+
+- Laços de Repetição
+"Estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou um contador"
+
+- Matrizes e Vetores
+"Matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e armazenados continuamente na memória"
+"Vetores são matrizes de uma só dimensão"
