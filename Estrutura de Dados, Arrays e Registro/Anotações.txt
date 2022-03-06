@@ -1,0 +1,26 @@
+- Estrutura de Dados
+"Estrutura organizada de dados na memória de um computador ou em qualquer dispositivo de armazenamento, de forma que os dados possam ser utilizados corretamente"
+
+- Algoritmo
+"Conjuntos de intruções estruturadas e ordenadas. Seu objetivo é realizar uma tarefa ou operação específica."
+
+- Principais estruturas de dados:
+	* Vetores e Matrizes: também chamados de Arrays, são estruturas de dados simples que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo;
+	* Registro: estrutura que fornece um formato especializado para armazenar informações em memória. Enquanto o Array nos permite armazenar vários dados de um 
+	único tipo de dados, o recurso de registro permite armazenar mais tipos de dado;
+	* Listas: armazena dados de um determinado tipo em uma ordem específica. Listas possuem tamanho ajustável, enquanto Arrays possuem tamanho fixo. 
+		> Listas Ligadas: os nós conhecem o valor que está sendo armazenado em seu interior, além do elemento posterior a ele;
+		> Listas Duplamente Ligadas: são bidirecionais. Os nós conhecem o valor que está sendo armazenado em seu interior, mas também no elemento anterior e 
+		  posterior a ele, o que permite a navegação reversa.  
+	* Pilhas: serve como uma coleção de elementos e permite o acesso a somente um item de dados armazenado. O acesso é restrito, ou seja, somente um item pode ser
+	  lido ou removido por vez;
+		> LIFO ou UEPS: Last In First Out (último que entra é o primeiro que sai)
+		> FIFO ou PEPS: First In First Out (primeiro que entra é o primeiro que sai)
+	* Filas: admite remoção de elementos e inserção de novos. O elemento removido é o que está na estrutura há mais tempo (o mais antigo), ou seja, o primeiro objeto
+	  inserido na fila é também o primeiro a ser removido; 
+	* Árvores: estrutura de dados que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamados de raiz, e os subordinados a ele,
+	  chamados de nós ou folhas;
+	* Tabela Hash: de disperção ou espalhamento, é uma estrutura de dados especial, que associa chaves de pesquisa a valores. Generalização da ideia de Array, utilizando
+	  uma função chamada Hashing para espalhar os elementos, fazendo com que eles fiquem de forma não ordenada dentro do 'array' que difine a tabela;
+	* Grafos: são estruturas que permitem programar a relação entre objetos. Os objetos são os vértices ou nós do grafo, e os relacionamentos são as arestas. Os grafos
+	  podem ter relacionamentos na vertical, horizontal, diagonal etc.
